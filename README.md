@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Software;MERN+Stack+Developer;Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Always+Learning+Something+New" alt="Typing Animation" />
 
-<img src="https://komarev.com/ghpvc/?username=ApoorvaGhanate&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ApoorvaGhanate&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
 </div>
 
