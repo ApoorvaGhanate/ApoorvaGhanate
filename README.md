@@ -70,45 +70,12 @@ To contribute to impactful products as a Software Engineer while continuously le
 
 ---
 
-# 📊 GitHub Statistics
+## 🌱 Currently Exploring
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ApoorvaGhanate&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvaGhanate&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ApoorvaGhanate&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApoorvaGhanate&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ApoorvaGhanate&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
+⚙️ System Design
+☁️ Cloud Platforms
+🐳 Docker
+🔐 Secure Backend Development
 
 ---
 
