@@ -4,81 +4,128 @@
 
 ### Aspiring Software Engineer • Tech Enthusiast
 
-*"Building scalable software, solving real-world problems, and continuously learning new technologies."*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Software;MERN+Stack+Developer;Machine+Learning+Enthusiast;Data+Structures+%26+Algorithms;Always+Learning+Something+New" alt="Typing Animation" />
+
+<img src="https://komarev.com/ghpvc/?username=ApoorvaGhanate&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-🎓 **Bachelor of Engineering in Information Technology**
+## 🎓 Bachelor of Engineering in Information Technology.
 
-💻 Passionate about building efficient software solutions with modern technologies.
+💻 Passionate about designing and building reliable software.
 
-🌱 Currently focusing on:
-
-* Data Structures & Algorithms
-* MERN Stack Development
-* System Design
-* Cloud Fundamentals
+🚀 Interested in Full Stack Development, Artificial Intelligence, and scalable backend systems.
 
 🎯 **Career Goal**
 
-To build impactful software products as a Software Engineer while continuously improving my technical and problem-solving skills.
+To contribute to impactful products as a Software Engineer while continuously learning and solving challenging engineering problems.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=c,python,js,html,css,sql" />
+
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react" />
+
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+
 </p>
 
 ### Backend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+
 </p>
 
-### Database
+### Databases
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,arduino" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+
 </p>
 
 ---
 
+# 📊 GitHub Statistics
 
+<div align="center">
 
-## 🤝 Let's Connect
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ApoorvaGhanate&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<p align="left">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvaGhanate&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/apoorva-ghanate-015182314/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-<a href="mailto:ghanateapoorvak06@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ApoorvaGhanate&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApoorvaGhanate&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ApoorvaGhanate&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<p>
 
 <a href="https://github.com/ApoorvaGhanate">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/apoorva-ghanate-015182314/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ghanateapoorvak06@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -86,9 +133,7 @@ To build impactful software products as a Software Engineer while continuously i
 ---
 
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**If you like my work, consider starring a repository.**
+⭐ Thanks for visiting my profile!
 
 </div>
+
